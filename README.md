@@ -9,5 +9,5 @@ cd client && npm run start
 ### Start Server
 
 ```shell
-cd server && uvicorn app:app --reload
+cd server/src && uvicorn app:app --reload
 ```
