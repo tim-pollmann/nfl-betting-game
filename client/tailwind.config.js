@@ -9,9 +9,9 @@ module.exports = {
         primary: '#64ffda',
         primaryLight: '#9effff',
         primaryDark: '#14cba8',
-        neutral: '#e0e0e0',
-        neutralLight: '#ffffff',
-        neutralDark: '#aeaeae',
+        neutral: '#8492a6',
+        neutralLight: '#d3dce6',
+        neutralDark: '#273444',
         textOnPrimary: '#000000',
         textOnSecondary: '#000000'
       }
